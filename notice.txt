@@ -1,0 +1,48 @@
+[
+{"fontSize":24, "color":[255, 240, 0], "topMargin":10, "align":"center", 
+"text":"喜庆《二战之风云再起》不删档测试开启！"}
+
+,{"fontSize":22, "color":[0, 255, 255], "topMargin":10, "align":"left", 
+"text":"客服QQ：519827453，加Q有惊喜！奖励等你拿～"}
+
+,{"fontSize":22, "color":[255, 255, 255], "topMargin":10, "align":"left", 
+"text":"不要害怕跌倒，从哪里跌倒就要从哪里爬起！不要担心失败，失败是成功他妈！不要畏惧对手，也许他也在畏惧着你！"}
+,{"fontSize":22, "color":[255, 255, 255], "topMargin":0, "align":"left", 
+"text":"记住，只有自己变强大，才能守护自己想要守护的！欢迎大家一起来战！"}
+
+,{"fontSize":24, "color":[255, 240, 0], "topMargin":30, "align":"center", 
+"text":"------生命不息欢乐不止------"}
+
+,{"fontSize":24, "color":[255, 132, 0], "topMargin":20, "align":"left", 
+"text":"登录在线送好礼"}
+,{"fontSize":22, "color":[255, 255, 255], "topMargin":10, "align":"left", 
+"text":"【活动内容】：每天在线都有好礼相送，在线时长达到2分钟、5分钟、10分钟，统统都有礼！屌丝也可战胜高富帅，让你爽到飞起！"}
+
+,{"fontSize":24, "color":[255, 132, 0], "topMargin":20, "align":"left", 
+"text":"冲级抢钻石"}
+,{"fontSize":22, "color":[255, 255, 255], "topMargin":10, "align":"left", 
+"text":"【活动内容】：开服一周后（10.9-10.15），武将达到指定等级，即可获得相应奖励！"}
+,{"fontSize":22, "color":[0, 255, 255], "topMargin":10, "align":"center", 
+"text":" 25-29级   奖500钻石  "}
+,{"fontSize":22, "color":[0, 255, 255], "topMargin":10, "align":"center", 
+"text":" 30-34级   奖1000钻石"}
+,{"fontSize":22, "color":[0, 255, 255], "topMargin":10, "align":"center", 
+"text":" 35-39级   奖2000钻石"}
+,{"fontSize":22, "color":[0, 255, 255], "topMargin":10, "align":"center", 
+"text":" 40-44级   奖3000钻石"}
+,{"fontSize":22, "color":[0, 255, 255], "topMargin":10, "align":"center", 
+"text":"44级以上   奖5000钻石"}
+
+,{"fontSize":24, "color":[255, 240, 0], "topMargin":30, "align":"center", 
+"text":"----以下内容极其凶残，请慎重下滑----"}
+
+,{"fontSize":24, "color":[255, 132, 0], "topMargin":10, "align":"left", 
+"text":"首冲30元福利"}
+,{"fontSize":22, "color":[255, 255, 255], "topMargin":10, "align":"left", 
+"text":"【活动内容】：首冲30元，送超值豪华大礼！充值获得300钻石，还能获得将近8倍的钻石返利！另赠送价值500钻石的海量道具！想要快人一步，就得先下手为强！土豪，你不来一发吗？"}
+
+,{"fontSize":24, "color":[255, 132, 0], "topMargin":20, "align":"left", 
+"text":"你想要的198"}
+,{"fontSize":22, "color":[255, 255, 255], "topMargin":10, "align":"left", 
+"text":"【活动内容】：你是只要一亩三分地，做一个闲云野鹤，种豆南山下，不问世事的“神农”？还是要称霸三国，做一个逐鹿中原，征战四海，戎马一生的一代英雄？“野怪助力礼包”和“建设助力礼包”，你想要的，我们统统都有！只要198元，所望即所得！"}
+]
